@@ -8,7 +8,7 @@ I personally use stow for my symlinking. To install my dotfiles, install GNU sto
 
 Then, do the following:
 ```
-$ git clone https://github.com/emolucy/.dotfiles
+$ git clone https://github.com/l0j7/.dotfiles
 $ cd .dotfiles
 $ stow <CONFIG_NAME>
 ```
